@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https:/petershen-csworld.github.io/sitemap.xml
+Sitemap: https://petershen-csworld.github.io/sitemap.xml
